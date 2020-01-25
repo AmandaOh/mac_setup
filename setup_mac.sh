@@ -38,5 +38,6 @@ brew cask install iterm2
 brew cask install spotify
 brew cask install skype
 brew cask install postman
+brew cask install 1password
 
 source ./~.zshrc
